@@ -1,0 +1,33 @@
+{
+    "users": [
+        {
+            "id":"user_id-1",
+            "name":"Bella",
+            "email":"Bella@gmail.com",
+            "password":"password1234"
+        }
+    ],
+    "dealers":[
+        {
+            "dealer_id":"dealer_id-1",
+            "name":"dealer",
+            "email":"dealer@gmail.com",
+            "password":"dealer1234",
+            "companyName":"abc",
+            "mobile":1234567890,
+            "isActive":true,
+            "payment":[]
+
+        }
+    ],
+"products": [
+    {
+        "product_id":238,
+        "productName":"Versatile",
+        "quantity": 25,
+        "unit":"kg",
+        "price": 120
+        
+    }
+]
+}
